@@ -1,0 +1,7 @@
+sherlock, irene, messages, Elementary my dear Watson, 221B Baker Street
+watson, mary, messages, I'm ready, I can't afford to jeopardise my medical career, friends, sherlock, mary, lestrade
+lestrade, theyard, messages, I'm stuck, Scotland Yard, friends, watson, sherlock
+mary, watson, messages, I'm amazing, The Baker Street boys, Rot in Hell, friends, sherlock, watson
+mrs. hudson, ferrari, messages, You have a visitor, Now Now Sherlock!, friends, sherlock
+mycroft, england, messages, Elementary, The winds of change are coming, friends, sherlock, watson, mary, lestrade, mrs. hudson
+eurus, redbeard, messages, The east wind is coming, yo, friends, sherlock, mycroft
